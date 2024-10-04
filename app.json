@@ -2,14 +2,14 @@
   "name": "PRINXE-MD",
   "description": "PRINXE-MD A SUPER WHATSAPP USER BOT",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "repository": "https://github.com/PRINCE-GDS/PRINXE-MD",
+  "repository": "https://github.com/TOpPLUG/PRINXE-MD",
   
   "stack": "container",
   "env": {
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668108;❣️Prince"
+      "value": "254112386921"
       },
      "MODE": {
       "description": "mode public or private",
